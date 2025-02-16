@@ -1,0 +1,142 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?eu5u8a');
+  src:  url('fonts/icomoon.eot?eu5u8a#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?eu5u8a') format('truetype'),
+    url('fonts/icomoon.woff?eu5u8a') format('woff'),
+    url('fonts/icomoon.svg?eu5u8a#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-multimedia:before {
+  content: "\e900";
+  color: #3289c7;
+}
+.icon-technology:before {
+  content: "\e901";
+}
+.icon-signs-1:before {
+  content: "\e902";
+}
+.icon-sports:before {
+  content: "\e903";
+  color: #3289c7;
+}
+.icon-business-5:before {
+  content: "\e904";
+  color: #3289c7;
+}
+.icon-danger:before {
+  content: "\e905";
+  color: #3289c7;
+}
+.icon-coins:before {
+  content: "\e906";
+  color: #3289c7;
+}
+.icon-null:before {
+  content: "\e907";
+  color: #3289c7;
+}
+.icon-business-4:before {
+  content: "\e908";
+  color: #3289c7;
+}
+.icon-business-3:before {
+  content: "\e909";
+  color: #3289c7;
+}
+.icon-business-2:before {
+  content: "\e90a";
+}
+.icon-mark:before {
+  content: "\e90b";
+  color: #3289c7;
+}
+.icon-chart:before {
+  content: "\e90c";
+  color: #3289c7;
+}
+.icon-people-2:before {
+  content: "\e90d";
+  color: #3289c7;
+}
+.icon-clock:before {
+  content: "\e90e";
+  color: #3289c7;
+}
+.icon-arrows:before {
+  content: "\e90f";
+  color: #3289c7;
+}
+.icon-interface-1:before {
+  content: "\e910";
+  color: #3289c7;
+}
+.icon-signs:before {
+  content: "\e911";
+  color: #3289c7;
+}
+.icon-business-1:before {
+  content: "\e912";
+  color: #3289c7;
+}
+.icon-home:before {
+  content: "\e913";
+  color: #3289c7;
+}
+.icon-money-1:before {
+  content: "\e914";
+  color: #3289c7;
+}
+.icon-computer:before {
+  content: "\e915";
+  color: #3289c7;
+}
+.icon-medal:before {
+  content: "\e916";
+  color: #3289c7;
+}
+.icon-file:before {
+  content: "\e917";
+  color: #3289c7;
+}
+.icon-people-1:before {
+  content: "\e918";
+  color: #3289c7;
+}
+.icon-people:before {
+  content: "\e919";
+  color: #3289c7;
+}
+.icon-business:before {
+  content: "\e91a";
+}
+.icon-money:before {
+  content: "\e91b";
+  color: #3289c7;
+}
+.icon-work:before {
+  content: "\e91c";
+  color: #3289c7;
+}
+.icon-interface:before {
+  content: "\e91d";
+  color: #3289c7;
+}
